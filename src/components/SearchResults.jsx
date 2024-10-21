@@ -56,7 +56,6 @@ const SearchResults = () => {
     );
   }
 
-  // Results found
   return (
     <div className="max-w-4xl mx-auto mt-8">
       {/* Search Metrics */}
@@ -67,8 +66,6 @@ const SearchResults = () => {
           privacyScore: metrics?.averagePrivacyScore || 0,
         }}
       />
-
-      {/* Results List */}
 
       <div className="space-y-4">
         {results.map((result, index) => (
