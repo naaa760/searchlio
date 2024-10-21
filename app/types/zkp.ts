@@ -32,7 +32,8 @@ export interface VerificationResponse {
 }
 
 export interface DashboardStats {
+    activeChallenges: number;
     proofCount : number;
-    verfificationCount : number;
-    succesRate : number;
+    verificationCount : number;
+    successRate : number;
 }

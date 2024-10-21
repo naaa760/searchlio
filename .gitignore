@@ -8,6 +8,8 @@
 
 # testing
 /coverage
+invai.txt
+invai.ts
 
 # next.js
 /.next/
