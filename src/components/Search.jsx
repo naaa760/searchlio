@@ -6,12 +6,9 @@ import SearchResults from "./SearchResults";
 const Search = () => {
   return (
     <>
-      <Header />
-      <main className="container mx-auto px-4 py-8">
+      <main className="mx-auto">
         <SearchBar />
-        {/* <SearchResults /> */}
       </main>
-      <Footer />
     </>
   );
 };
