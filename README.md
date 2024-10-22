@@ -1,8 +1,23 @@
-# React + Vite
+# SearchLio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SearchEngine enables you to find clarity and significant results on a large scale by linking queries and results to the overarching objectives of your search.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- No User login
+- Private Search Engine
+- Real Time Support
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+## Authors
+
+Mrinal Pramanick
+
+Neha Prasad
