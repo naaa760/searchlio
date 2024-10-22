@@ -18,6 +18,6 @@ Please adhere to this project's `code of conduct`.
 
 ## Authors
 
-Mrinal Pramanick
+MRINAL PRAMANICK
 
-Neha Prasad
+NEHA PRASAD
