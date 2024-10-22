@@ -49,9 +49,7 @@ export default function LandingPage() {
             All Together
           </h1>
           <p className="text-xl mb-8 text-gray-400">
-            Ganttify enables you to achieve clarity and significant results on a
-            large scale by linking tasks and workflows to the overarching
-            objectives of the company.
+          SearchEngine enables you to find clarity and significant results on a large scale by linking queries and results to the overarching objectives of your search.
           </p>
           <div className="flex justify-center space-x-4 mb-16">
             <a href="/search">

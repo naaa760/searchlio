@@ -6,7 +6,7 @@ SearchEngine enables you to find clarity and significant results on a large scal
 
 - No User login
 - Private Search Engine
-- Real Time Support
+- Real-Time Support
 
 ## Contributing
 
